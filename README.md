@@ -52,3 +52,6 @@ ___
 _Basic_\
 [Visual Studio Code Development Containers: A Guide for Students - Visual Studio Code](https://youtu.be/Uvf2FVS1F8k)
 
+<p>
+  <h1 align="right"><b>🦆<img src="" alt="" width="100"></h1>
+</p>
