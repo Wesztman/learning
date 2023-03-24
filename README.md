@@ -3,7 +3,7 @@ _A collection of good learning resources._
 
 # Becoming a better programmer
 
-[What pro coders do differently to get ahead of the competition](https://www.youtube.com/watch?v=q1qKv5TBaOA)
+[What pro coders do differently to get ahead of the competition - Coderized](https://www.youtube.com/watch?v=q1qKv5TBaOA)
 
 # Git
 
