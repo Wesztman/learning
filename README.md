@@ -5,6 +5,10 @@ _A collection of good learning resources._
 
 [What pro coders do differently to get ahead of the competition - Coderized](https://www.youtube.com/watch?v=q1qKv5TBaOA)
 
+# DevOps
+
+[Reflections on 10,000 Hours of DevOps - Matt Rickard](https://matt-rickard.com/reflections-on-10-000-hours-of-devops)
+
 # Git
 
 _Intermediate_\
