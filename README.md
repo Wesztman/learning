@@ -20,9 +20,13 @@ _Advanced_\
 ___
 # Python
 
+### General
+
+[Level Up Your Python - Henry Schreiner](https://henryiii.github.io/level-up-your-python/notebooks/0%20Intro.html)
+
 ### Decorators
 
-[Python Decorators: The Complete Guide, ArjanCodes](https://youtu.be/QH5fw9kxDQA)
+[Python Decorators: The Complete Guide - ArjanCodes](https://youtu.be/QH5fw9kxDQA)
 
 ### Inheritance vs Composition
 
